@@ -1,35 +1,35 @@
-# DS_learning_materials
+#  Data Science Learning Journey  
+*From Curiosity to Capability — One Notebook at a Time*
 
-Welcome to my Data Science learning repository! This space is dedicated to storing and sharing all of my Jupyter Notebook files as I learn and grow in the field of Data Science.
+**Author:** Partho Sarothi Das  
+	Dhaka, Bangladesh  
+	Bachelor's & Master's in Statistics  
+	Investment Banking Professional → Aspiring Data Scientist  
 
-##  What You'll Find Here
+---
 
-This repository includes notebooks on:
+##  About This Notebook
 
--  Data Visualization (Seaborn, Matplotlib)
--  Python for Data Science
--  Statistical Analysis
--  Machine Learning
--  Data Preprocessing and Cleaning
--  Exploratory Data Analysis (EDA)
+This repository is part of my **self-guided journey into Data Science**.  
+It includes concepts, code examples, exercises, and mini-projects that I've worked on while learning and applying data science techniques.
 
-## Purpose
+###  Learning Focus  
+	- Python Programming  
+	- Statistical Concepts  
+	- Machine Learning  
+	- Data Visualization  
+	- SQL & Databases  
+	- Web Scraping
 
-The goal of this repository is to document my journey in Data Science and provide a reference for revision, practice, and sharing with others who are also learning.
+>  *"From Investment Banking to Data Science: Navigating numbers with curiosity and precision."*
 
-## Tools & Libraries Used
+---
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- Scikit-learn (for ML notebooks)
+## 🌐 Connect with Me  
+🔗 **GitHub:** [ParthoSarothiDas](https://github.com/ParthoSarothiDas)  
+🔗 **LinkedIn:** [Partho Sarothi Das](https://www.linkedin.com/in/partho-sarothi-das/)  
+📧 **Email:** partho52@gmail.com  
 
-## Getting Started
+---
 
-You can clone this repository using:
-
-```bash
-git clone https://github.com/your-username/DS_learning_materials.git
+📌 *Feel free to explore, learn with me, or suggest improvements.*  
