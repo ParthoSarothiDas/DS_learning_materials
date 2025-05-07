@@ -35,10 +35,10 @@ If these materials help you in your own learning, that makes the effort even mor
 
 ## Author
 
-**Partho Sarothi Das**
-📍 Dhaka, Bangladesh
-🔗 **GitHub:** [ParthoSarothiDas](https://github.com/ParthoSarothiDas)
-🔗 **LinkedIn:** [Partho Sarothi Das](https://www.linkedin.com/in/partho-sarothi-das/)
-📧 **Email:** [partho52@gmail.com](mailto:partho52@gmail.com)
+**Partho Sarothi Das**  
+📍 Dhaka, Bangladesh    
+🔗 **GitHub:** [ParthoSarothiDas](https://github.com/ParthoSarothiDas)  
+🔗 **LinkedIn:** [Partho Sarothi Das](https://www.linkedin.com/in/partho-sarothi-das/)  
+📧 **Email:** [partho52@gmail.com](mailto:partho52@gmail.com)  
 
 ---
