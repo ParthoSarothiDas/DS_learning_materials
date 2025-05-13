@@ -15,11 +15,15 @@ It includes concepts, code examples, exercises, and mini-projects that I've work
 
 ###  Learning Focus  
 	- Python Programming  
-	- Statistical Concepts  
+	- Data Visualization
+ 	- Statistical Concepts
+  	- Mathematical Concepts
+   	- Web Scraping
 	- Machine Learning  
-	- Data Visualization  
+	- Deep Learning
+ 	- Natural language processing (NLP)	
 	- SQL & Databases  
-	- Web Scraping
+	
 
 >  *"From Investment Banking to Data Science: Navigating numbers with curiosity and precision."*
 
